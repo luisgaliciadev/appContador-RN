@@ -1,3 +1,3 @@
 # appContador-RN
 
-Aplicación movil basica desarrollada con react native usando Typescript
+Aplicación móvil básica desarrollada con react native usando Typescript
